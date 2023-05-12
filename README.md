@@ -6,7 +6,7 @@ I'm Khoshimov Zafarbek interested in AI, Data Science. Currently learning at Ver
 
 Skills: Python/DeepLearning/DataAnalysis
 
-- 🌱 I’m currently learning at VeraVla edu online school 
+- 🌱 I have studied at VeraVla edu online school 
 - 👯 I’m looking to collaborate on AI and Data Science projects 
 - 📫 How to reach me: zafarbekjon1997@gmail.com 
 
