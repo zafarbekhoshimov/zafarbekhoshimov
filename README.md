@@ -2,7 +2,7 @@
 #### AI and Data Science
 ![AI and Data Science](https://pbs.twimg.com/profile_banners/1449976696392671234/1674396927/1500x500)
 
-I'm Khoshimov Zafarbek interested in AI, Data Science. Currently learning at VeraVla edu online school. I really enjoy working with the AI,Data Science, and very passionate about keeping myself up to date in this field. Therefore I'm looking to collaborate on AI and Data Science projects
+I'm Khoshimov Zafarbek interested in AI, Data Science.  I really enjoy working with the AI,Data Science, and very passionate about keeping myself up to date in this field. Therefore I'm looking to collaborate on AI and Data Science projects
 
 Skills: Python/DeepLearning/DataAnalysis
 
